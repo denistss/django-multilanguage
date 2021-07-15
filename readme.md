@@ -1,5 +1,12 @@
 # Django - Multi-Language
 
+## 🎨 Screens
+
+<h3 align="center">
+  <img alt="theme" 
+    src="./lang/static/screenshoots/gif.gif?raw=true" width="1000px"/>
+</h3>
+
 Funcionalidade para customizar os idiomas utilizados na aplicação.
 
 > Aprendizados:
